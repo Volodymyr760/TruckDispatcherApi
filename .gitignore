@@ -1,0 +1,11 @@
+﻿bin
+obj
+packages
+.suo
+.vs
+*.dtbcache.*
+appsettings.json
+Uploads
+DB_Schema.drawio
+wwwroot
+PublishProfiles
